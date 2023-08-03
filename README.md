@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto "TreinoWebServices" é uma aplicação web desenvolvida com o objetivo principal de aprimorar as habilidades em desenvolvimento 
+O projeto "WebServices" é uma aplicação web desenvolvida com o objetivo principal de aprimorar as habilidades em desenvolvimento 
 de serviços web utilizando as tecnologias Spring Boot, JPA e Hibernate. A ideia por trás do projeto é construir uma API RESTful capaz de 
 gerenciar uma lista de tarefas.
 
